@@ -1,0 +1,27 @@
+Copyright (C) 2014 Julian Coy and James Jernigan
+
+DEPENDENCY: GAWK (used for file size extraction from OS)
+
+1) Unzip contents to a folder.
+2) Navigate to the folder (./Lab2).
+4) Run make
+5) Instructions are below:
+
+Usage:
+	make huff
+		Runs through all file type Huffman tests
+
+	make golf
+		Runs through Huffman with golfcore.ppm image
+
+	make pass
+		Runs through Huffman with passwd text
+
+	make echo
+		Runs through Huffman with echo binary
+
+	make [golf][pass][echo][huff]t
+		Runs through [<command>] with a timer script
+
+	make clean
+		Cleans up the directory

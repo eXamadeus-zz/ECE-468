@@ -1,0 +1,55 @@
+||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||
+||||||                          ||||||
+||||||      Programmed by:      ||||||
+||||||                          ||||||
+||||||            /\            ||||||
+||||||           //\\           ||||||
+||||||          ///\\\          ||||||
+||||||         ////\\\\         ||||||
+||||||        /////\\\\\        ||||||
+||||||       //////\\\\\\       ||||||
+||||||      ///////\\\\\\\      ||||||
+||||||     ////////\\\\\\\\     ||||||
+||||||    /////////\\\\\\\\\    ||||||
+||||||   ||||||||||||||||||||   ||||||
+||||||   ||||||        ||||||   ||||||
+||||||   |||||| README ||||||   ||||||
+||||||   ||||||        ||||||   ||||||
+||||||   ||||||||||||||||||||   ||||||
+||||||    \\\\\\\\\/////////    ||||||
+||||||     \\\\\\\\////////     ||||||
+||||||      \\\\\\\///////      ||||||
+||||||       \\\\\\//////       ||||||
+||||||        \\\\\/////        ||||||
+||||||         \\\\////         ||||||
+||||||          \\\///          ||||||
+||||||           \\//           ||||||
+||||||            \/            ||||||
+||||||                          ||||||
+||||||        Julian Coy        ||||||
+||||||                          ||||||
+||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||
+
+///////////////
+/// WINDOWS ///
+///////////////
+
+To compile the Windows code, create a new Win32 Console Application in Visual Studio 2010.  Make it a blank project.
+
+Import the lab1.c source file and the images (retina.ppm and bridge.ppm) in the project source directory.  Build the project and run it.  Follow the prompts in the code to see the images.
+
+\\\\\\\\\\\\\
+\\\ LINUX \\\
+\\\\\\\\\\\\\
+
+To compile the code in linux open a terminal and navigate to the directory with x11.c and the images.
+
+Commands - Description
+
+make - Builds x11.c and creates executable x11
+
+make test - Builds x11.c, creates executable, and runs x11 selecting retina.ppm and bridges.ppm in that order
+
+make clean - Deletes the executable files.

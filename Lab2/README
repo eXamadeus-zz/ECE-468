@@ -1,0 +1,27 @@
+1) Unzip contents to a folder.
+2) Navigate to the folder (./jcoy_Lab2).
+3) Navigate to subfolder Lab2 (./jcoy_Lab2/Lab2)
+4) Run make
+5) Instructions are provided
+
+Usage:
+	make diffr
+		Runs through RLE tests
+
+	make diffl
+		Runs through LZW tests
+
+	make [rl][te][d]
+		Compression:
+			r - use RLE encryption
+			l - use LZW encryption
+		Input (default - ../images/golfcore.ppm):
+			t - use passwd for input
+			e - use echo for input
+		Decompression (default - does not decompress):
+			d - decompress file after compressing
+
+	make clean
+		Cleans up the directory
+
+'make diffr' and 'make diffl' will run through all options of the programs.  All filles generated will be 'diffed' with the originals.

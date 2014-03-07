@@ -1,0 +1,103 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+CC	Lab1/Makefile	/^CC=gcc$/;"	m
+CFLAGS	Lab1/Makefile	/^CFLAGS=-Wall -ggdb -o0$/;"	m
+IMGDIR	Lab1/Makefile	/^IMGDIR=.$/;"	m
+EventProcessor	Lab1/lab1.c	/^LRESULT CALLBACK EventProcessor (HWND hWnd,UINT uMsg,WPARAM wParam,LPARAM lParam) {$/;"	f
+IS_RGB	Lab1/lab1.c	4;"	d	file:
+WinMain	Lab1/lab1.c	/^int WINAPI WinMain ( HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {$/;"	f
+convertDisplay	Lab1/lab1.c	/^unsigned char *convertDisplay(unsigned char *data, int cols, int rows, BOOL RGB) {$/;"	f
+main	Lab1/wimg.c	/^int main (int argc, char *argv[]) {$/;"	f
+printErr	Lab1/wimg.c	/^void printErr(char *str, int err) {$/;"	f
+printPixels	Lab1/wimg.c	/^void printPixels(unsigned char *data, int low, int high, bool RGB) {$/;"	f
+convertDisplay	Lab1/x11.c	/^unsigned char *convertDisplay(unsigned char *data, int cols, int rows, bool RGB) {$/;"	f
+main	Lab1/x11.c	/^int main (int argc, char *argv[]) {  \/\/ return 0 on success, 1 on fail$/;"	f
+printErr	Lab1/x11.c	/^void printErr(char *str, int err) {$/;"	f
+printPixels	Lab1/x11.c	/^void printPixels(unsigned char *data, int low, int high, bool RGB) {$/;"	f
+CC	Lab2/Makefile	/^CC=gcc$/;"	m
+CFLAGS	Lab2/Makefile	/^CFLAGS=-Wall -ggdb -o0$/;"	m
+CLEANUP	Lab2/Makefile	/^CLEANUP=$(wildcard *.rle) $(wildcard *.lzw) $(wildcard *.ppm) $(wildcard *dec*)$/;"	m
+CLEANUPIMG	Lab2/Makefile	/^CLEANUPIMG=$(wildcard $(IMGDIR)\/*.rle) $(wildcard $(IMGDIR)\/*.lzw) $(wildcard $(IMGDIR)\/*dec*)$/;"	m
+HDIR	Lab2/Makefile	/^HDIR=..\/headers$/;"	m
+HEADERS	Lab2/Makefile	/^HEADERS=$(HDIR)\/ex_rle.c $(HDIR)\/ex_lzw.c $(HDIR)\/ex_dict.c$/;"	m
+IMGDIR	Lab2/Makefile	/^IMGDIR=..\/images$/;"	m
+LZW_ENC	Lab2/lab2.c	11;"	d	file:
+RLE_ENC	Lab2/lab2.c	10;"	d	file:
+main	Lab2/lab2.c	/^int main (int argc, char *argv[]) {  \/\/ return 0 on success, 1 on fail$/;"	f
+printErr	Lab2/lab2.c	/^void printErr(char *str, int err) {$/;"	f
+CC	Lab3/Makefile	/^CC         = gcc$/;"	m
+CFLAGS	Lab3/Makefile	/^CFLAGS     = -Wall -ggdb -o0$/;"	m
+CLEANUP	Lab3/Makefile	/^CLEANUP    = $(wildcard *.huf) $(wildcard *.ppm) $(wildcard *dec*) $(wildcard *.bin)$/;"	m
+CLEANUPIMG	Lab3/Makefile	/^CLEANUPIMG = $(wildcard $(IMGDIR)\/*.huf) $(wildcard $(IMGDIR)\/*dec*)$/;"	m
+HDIR	Lab3/Makefile	/^HDIR       = ..\/headers$/;"	m
+HEADERS	Lab3/Makefile	/^HEADERS    = $(HDIR)\/ex_rle.c $(HDIR)\/ex_lzw.c $(HDIR)\/ex_dict.c$/;"	m
+IMGDIR	Lab3/Makefile	/^IMGDIR     = ..\/images$/;"	m
+SYM_TABLE	Lab3/lab3.c	/^} SYM_TABLE;$/;"	t	typeref:struct:_sym_table	file:
+_sym_table	Lab3/lab3.c	/^typedef struct _sym_table {$/;"	s	file:
+length	Lab3/lab3.c	/^	int				symbol, weight, length;$/;"	m	struct:_sym_table	file:
+main	Lab3/lab3.c	/^main (int argc, char *argv[])$/;"	f
+pattern	Lab3/lab3.c	/^	unsigned int	pattern;$/;"	m	struct:_sym_table	file:
+printErr	Lab3/lab3.c	/^printErr(char *str, int err)$/;"	f
+symbol	Lab3/lab3.c	/^	int				symbol, weight, length;$/;"	m	struct:_sym_table	file:
+weight	Lab3/lab3.c	/^	int				symbol, weight, length;$/;"	m	struct:_sym_table	file:
+EX_BINTREE_ADD_LEFT	headers/ex_bintree.c	/^EX_BINTREE_ADD_LEFT(EX_BINTREE *tree)$/;"	f
+EX_BINTREE_ADD_RIGHT	headers/ex_bintree.c	/^EX_BINTREE_ADD_RIGHT(EX_BINTREE *tree)$/;"	f
+EX_BINTREE_BUILD	headers/ex_bintree.c	/^EX_BINTREE_BUILD(EX_BINTREE *tree, EX_ORDLIST *list)$/;"	f
+EX_BINTREE_DELETE	headers/ex_bintree.c	/^EX_BINTREE_DELETE(EX_BINTREE *tree)$/;"	f
+EX_BINTREE_INIT	headers/ex_bintree.c	/^EX_BINTREE_INIT()$/;"	f
+EX_ORDLIST_DELETE	headers/ex_bintree.c	/^EX_ORDLIST_DELETE(EX_ORDLIST *list)$/;"	f
+EX_ORDLIST_INIT	headers/ex_bintree.c	/^EX_ORDLIST_INIT ()$/;"	f
+EX_ORDLIST_POP	headers/ex_bintree.c	/^EX_ORDLIST_POP(EX_ORDLIST *list)$/;"	f
+EX_ORDLIST_PUSH	headers/ex_bintree.c	/^EX_ORDLIST_PUSH (EX_ORDLIST *list, EX_SYMPAIR *pair)$/;"	f
+EX_BINTREE	headers/ex_bintree.h	/^} EX_BINTREE;$/;"	t	typeref:struct:_ex_bintree
+EX_BINTREE_H	headers/ex_bintree.h	6;"	d
+EX_ORDLIST	headers/ex_bintree.h	/^} EX_ORDLIST;$/;"	t	typeref:struct:_ex_ordlist
+EX_SYMPAIR	headers/ex_bintree.h	/^} EX_SYMPAIR;$/;"	t	typeref:struct:_ex_sympair
+_ex_bintree	headers/ex_bintree.h	/^typedef struct _ex_bintree$/;"	s
+_ex_ordlist	headers/ex_bintree.h	/^typedef struct _ex_ordlist$/;"	s
+_ex_sympair	headers/ex_bintree.h	/^typedef struct _ex_sympair$/;"	s
+frequency	headers/ex_bintree.h	/^	unsigned int		frequency;$/;"	m	struct:_ex_sympair
+left	headers/ex_bintree.h	/^	struct _ex_bintree	*left,*right,*parent;$/;"	m	struct:_ex_bintree	typeref:struct:_ex_bintree::_ex_bintree
+next	headers/ex_bintree.h	/^	struct _ex_ordlist	*next;$/;"	m	struct:_ex_ordlist	typeref:struct:_ex_ordlist::_ex_ordlist
+parent	headers/ex_bintree.h	/^	struct _ex_bintree	*left,*right,*parent;$/;"	m	struct:_ex_bintree	typeref:struct:_ex_bintree::
+right	headers/ex_bintree.h	/^	struct _ex_bintree	*left,*right,*parent;$/;"	m	struct:_ex_bintree	typeref:struct:_ex_bintree::
+symbol	headers/ex_bintree.h	/^	unsigned char		symbol;$/;"	m	struct:_ex_sympair
+value	headers/ex_bintree.h	/^	EX_SYMPAIR			*value;$/;"	m	struct:_ex_bintree
+value	headers/ex_bintree.h	/^	EX_SYMPAIR			*value;$/;"	m	struct:_ex_ordlist
+EX_DICT_ADD_PAGE	headers/ex_dict.c	/^void EX_DICT_ADD_PAGE(EX_DICT *dict) {$/;"	f
+EX_DICT_DEL_PAGE	headers/ex_dict.c	/^void EX_DICT_DEL_PAGE(EX_DICT *dict) {$/;"	f
+EX_DICT_INIT	headers/ex_dict.c	/^EX_DICT * EX_DICT_INIT() {$/;"	f
+__FREE_DICT	headers/ex_dict.c	/^void __FREE_DICT (EX_DICT *dict) {$/;"	f
+__FREE_DICT_PAGE	headers/ex_dict.c	/^void __FREE_DICT_PAGE (EX_DICT_PAGE *page) {$/;"	f
+EX_DICT	headers/ex_dict.h	/^} EX_DICT;$/;"	t	typeref:struct:_ex_dict
+EX_DICT_ELEM	headers/ex_dict.h	/^} EX_DICT_ELEM;$/;"	t	typeref:struct:_ex_dict_elem
+EX_DICT_H	headers/ex_dict.h	4;"	d
+EX_DICT_PAGE	headers/ex_dict.h	/^} EX_DICT_PAGE;$/;"	t	typeref:struct:_ex_dict_page
+_ex_dict	headers/ex_dict.h	/^typedef struct _ex_dict {$/;"	s
+_ex_dict_elem	headers/ex_dict.h	/^typedef struct _ex_dict_elem {$/;"	s
+_ex_dict_page	headers/ex_dict.h	/^typedef struct _ex_dict_page {$/;"	s
+count	headers/ex_dict.h	/^	int						count,cursorPos;$/;"	m	struct:_ex_dict
+cursorPos	headers/ex_dict.h	/^	int						count,cursorPos;$/;"	m	struct:_ex_dict
+elem	headers/ex_dict.h	/^	unsigned char			**elem;$/;"	m	struct:_ex_dict_page
+head	headers/ex_dict.h	/^	struct _ex_dict_page 	*head,*tail;$/;"	m	struct:_ex_dict	typeref:struct:_ex_dict::_ex_dict_page
+next	headers/ex_dict.h	/^	struct _ex_dict_page	*prev,*next;$/;"	m	struct:_ex_dict_page	typeref:struct:_ex_dict_page::
+prev	headers/ex_dict.h	/^	struct _ex_dict_page	*prev,*next;$/;"	m	struct:_ex_dict_page	typeref:struct:_ex_dict_page::_ex_dict_page
+tail	headers/ex_dict.h	/^	struct _ex_dict_page 	*head,*tail;$/;"	m	struct:_ex_dict	typeref:struct:_ex_dict::
+huffdecompress	headers/ex_huffdec.c	/^void huffdecompress ( FILE * encoded , char * decodedname){$/;"	f
+BYTE	headers/ex_lzw.c	/^typedef unsigned char BYTE;$/;"	t	file:
+DICT_LENGTH	headers/ex_lzw.c	7;"	d	file:
+EX_LZW_COMPRESS	headers/ex_lzw.c	/^void EX_LZW_COMPRESS(FILE *in_fp, FILE *out_fp) {$/;"	f
+EX_LZW_DECOMPRESS	headers/ex_lzw.c	/^void EX_LZW_DECOMPRESS(FILE *in_fp, FILE *out_fp) {$/;"	f
+search	headers/ex_lzw.c	/^BYTE search(unsigned short int dID, BYTE **dict, unsigned short int len, BYTE *prev, unsigned short int *id, BYTE *wordLen) {$/;"	f
+EX_LZW_H	headers/ex_lzw.h	5;"	d
+BYTE	headers/ex_rle.c	/^typedef unsigned char BYTE;$/;"	t	file:
+EX_RLE_COMPRESS	headers/ex_rle.c	/^void EX_RLE_COMPRESS(FILE *in_fp, FILE *out_fp) {$/;"	f
+EX_RLE_DECOMPRESS	headers/ex_rle.c	/^void EX_RLE_DECOMPRESS(FILE *in_fp, FILE *out_fp) {$/;"	f
+MARKER	headers/ex_rle.c	4;"	d	file:
+MAX_RLE	headers/ex_rle.c	5;"	d	file:
+__write_run	headers/ex_rle.c	/^void __write_run(BYTE count, BYTE A, FILE *out) {$/;"	f
+EX_RLE_H	headers/ex_rle.h	5;"	d
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

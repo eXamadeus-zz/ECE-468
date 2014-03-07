@@ -1,0 +1,1781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"St",
+				"stringLen"
+			],
+			[
+				"EX",
+				"EX_DICT_PAGE"
+			],
+			[
+				"NCO",
+				"NCODEPAT"
+			],
+			[
+				"STR",
+				"STRING_LEN"
+			],
+			[
+				"STRING",
+				"STRING_LEN"
+			],
+			[
+				"ST",
+				"STRING_LEN"
+			],
+			[
+				"str",
+				"strncat"
+			],
+			[
+				"SRIN",
+				"STRING_LEN"
+			],
+			[
+				"out",
+				"out_fp"
+			],
+			[
+				"EX_DI",
+				"EX_DICT_ADD_PAGE"
+			],
+			[
+				"STIN",
+				"STRING_LEN"
+			],
+			[
+				"S",
+				"STRING_LEN"
+			],
+			[
+				"OCO",
+				"OCODE"
+			],
+			[
+				"OCODE",
+				"OCODESTR"
+			],
+			[
+				"string",
+				"stringLen"
+			],
+			[
+				"EX_",
+				"EX_DICT_ADD_PAGE"
+			],
+			[
+				"strin",
+				"stringLen"
+			],
+			[
+				"sear",
+				"searchCode"
+			],
+			[
+				"code",
+				"currCode"
+			],
+			[
+				"EX_DIC",
+				"EX_DICT_ADD_STRING"
+			],
+			[
+				"STI",
+				"STRING_LEN"
+			],
+			[
+				"in",
+				"in_fp"
+			],
+			[
+				"ou",
+				"out_fp"
+			],
+			[
+				"STRIN",
+				"STRING_LEN"
+			],
+			[
+				"STRN",
+				"STRING_LEN"
+			],
+			[
+				"en",
+				"encoded"
+			],
+			[
+				"huff",
+				"huffFile"
+			],
+			[
+				"node",
+				"nodeLeft"
+			],
+			[
+				"ex",
+				"ex_bintree"
+			],
+			[
+				"huf",
+				"hufflist"
+			],
+			[
+				"ex_",
+				"ex_bintree"
+			],
+			[
+				"iun",
+				"inputFile"
+			],
+			[
+				"hu",
+				"huffFile"
+			],
+			[
+				"elem",
+				"elemlist"
+			],
+			[
+				"NUll",
+				"nullRow"
+			],
+			[
+				"te",
+				"tree"
+			],
+			[
+				"EL",
+				"EX_ELEM"
+			],
+			[
+				"fre",
+				"frequency"
+			],
+			[
+				"E",
+				"EX_ELEM"
+			],
+			[
+				"el",
+				"EX_ELEM"
+			],
+			[
+				"ele",
+				"elemlist"
+			],
+			[
+				"__",
+				"__EX_BINTREE_PRINT_ELEM"
+			],
+			[
+				"new",
+				"newElem"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"is",
+				"isNode"
+			],
+			[
+				"sym",
+				"symbol"
+			],
+			[
+				"ne",
+				"newTree"
+			],
+			[
+				"e",
+				"EX_BINTREE_ELEM"
+			],
+			[
+				"EX_ORDLIST_NO",
+				"EX_ORDLIST_NOSORT"
+			],
+			[
+				"EX_ORDLIST_",
+				"EX_ORDLIST_NOSORT"
+			],
+			[
+				"type",
+				"typedef"
+			],
+			[
+				"EX_L",
+				"EX_ORDLIST"
+			],
+			[
+				"Ex",
+				"EX_ORDLIST"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"pre",
+				"prev"
+			],
+			[
+				"MAX",
+				"MAX_MARK"
+			],
+			[
+				"MA",
+				"MAX_RLE"
+			],
+			[
+				"prev",
+				"prevLen"
+			],
+			[
+				"curs",
+				"cursorPos"
+			],
+			[
+				"CLEAN",
+				"CLEANUPIMG"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"read",
+				"readTrue"
+			],
+			[
+				"val",
+				"valA"
+			],
+			[
+				"va",
+				"valB"
+			],
+			[
+				"rea",
+				"readTrue"
+			],
+			[
+				"lab2",
+				"lab2compiled"
+			],
+			[
+				"L",
+				"LZW_ENC"
+			],
+			[
+				"RLE",
+				"RLE_ENC"
+			],
+			[
+				"de",
+				"depth"
+			],
+			[
+				"FREE",
+				"FREE_DICT_PAGE"
+			],
+			[
+				"DICT",
+				"EX_DICT_PAGE"
+			],
+			[
+				"DICT_",
+				"EX_DICT_PAGE"
+			],
+			[
+				"DIC",
+				"EX_DICT_PAGE"
+			],
+			[
+				"DI",
+				"EX_DICT"
+			],
+			[
+				"count",
+				"countPix"
+			],
+			[
+				"coun",
+				"countPix"
+			],
+			[
+				"pi",
+				"startPix"
+			],
+			[
+				"high",
+				"highPix"
+			],
+			[
+				"low",
+				"lowPix"
+			],
+			[
+				"pix",
+				"numPix"
+			],
+			[
+				"displ",
+				"display"
+			],
+			[
+				"di",
+				"displaydata"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "468.sublime-project",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"he",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitad",
+				"Git: Add Current File"
+			],
+			[
+				"commit",
+				"Git: Amend Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git merge",
+				"Git: Merge"
+			],
+			[
+				"pulll",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"st",
+				"Git: Status"
+			],
+			[
+				"he	",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"lis",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"gistat",
+				"Git: Status"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sat",
+				"Git: Status"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"satt",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git mer",
+				"Git: Merge"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"make diffr",
+				"Makefile (Lab2): make diffr"
+			],
+			[
+				"make dif",
+				"Makefile (Lab2): make diffl"
+			],
+			[
+				"make clean",
+				"Makefile (Lab2): make clean"
+			],
+			[
+				"make",
+				"Makefile (Lab2): make diffl"
+			],
+			[
+				"makeclea",
+				"Makefile (Lab1): make clean"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ctas",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"git pop",
+				"Git: Pop Stash"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"pull ",
+				"Git: Pull"
+			],
+			[
+				"checou",
+				"Git: Checkout"
+			],
+			[
+				"chec ",
+				"Git: Checkout"
+			],
+			[
+				"gitpop",
+				"Git: Pop Stash"
+			],
+			[
+				"pop",
+				"Git: Pop Stash"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"git checkou",
+				"Git: Checkout"
+			],
+			[
+				"stash",
+				"Git: Stash"
+			],
+			[
+				"pcurr",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitchec",
+				"Git: Checkout"
+			],
+			[
+				"git bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"gistatu",
+				"Git: Status"
+			],
+			[
+				"git stati",
+				"Git-flow: Hotfix Start From Commit"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"git sta	",
+				"Git: Stash"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git pus	",
+				"Git: Push"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"section",
+				"Snippet: Section"
+			],
+			[
+				"snisection",
+				"Snippet: Section"
+			],
+			[
+				"snisectio",
+				"Snippet: Section"
+			],
+			[
+				"snipp",
+				"Snippet: Chapter"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"googl",
+				"Google Spell Check"
+			],
+			[
+				"snibegin",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"snibeg",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"sinp",
+				"Snippet: Blindequation1"
+			],
+			[
+				"sinpp",
+				"Snippet: Blindtext 3x"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"com	",
+				"Git: Commit"
+			],
+			[
+				"mer	",
+				"Git: Merge"
+			],
+			[
+				"gitmer",
+				"Git: Merge"
+			],
+			[
+				"gist",
+				"Git: Status"
+			],
+			[
+				"gsta",
+				"Git: Status"
+			],
+			[
+				"gitre",
+				"Git: Add Remote"
+			],
+			[
+				"gpull",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Remote"
+			],
+			[
+				"gpul",
+				"Git: Pull"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"gpu",
+				"Git: Pull"
+			],
+			[
+				"gp",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gitfe",
+				"Git: Fetch"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"pu	",
+				"Git: Push"
+			],
+			[
+				"gcom",
+				"Git: Commit"
+			],
+			[
+				"add li",
+				"SublimeGit: Add License"
+			],
+			[
+				"remo",
+				"Git: Add Remote"
+			],
+			[
+				"fetch",
+				"Git: Fetch"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gadd",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Add Remote"
+			],
+			[
+				"git re",
+				"Git: Remote"
+			],
+			[
+				"add rem",
+				"Git: Add Remote"
+			],
+			[
+				"add re",
+				"Git: Add Remote"
+			],
+			[
+				"remote",
+				"Git: Add Remote"
+			],
+			[
+				"git sho",
+				"Git: Show"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 463.0,
+		"history":
+		[
+			"exit",
+			"git rm E",
+			"git rm",
+			"ls",
+			"pwd",
+			"quit",
+			"exit",
+			"cancel",
+			"debug=true",
+			"debug",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rathe/Documents/School/468ECE/scripts/timelab",
+		"/home/rathe/Documents/School/468ECE/scripts/difflab",
+		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
+		"/home/rathe/Documents/School/468ECE/images/retina.ppm",
+		"/home/rathe/Documents/School/468ECE/images/golfcore.ppm",
+		"/home/rathe/Documents/School/468ECE/images/bridge.ppm",
+		"/home/rathe/Documents/School/468ECE/images/base.ppm",
+		"/home/rathe/Documents/School/468ECE/headers/ex_rle.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_rle.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.h.lzw",
+		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.c.lzw",
+		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_huffenc.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_huffenc.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_huffdec.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_huffdec.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_dict.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_dict.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.h",
+		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c",
+		"/home/rathe/Documents/School/468ECE/headers/a.out",
+		"/home/rathe/Documents/School/468ECE/files/targets.ppm",
+		"/home/rathe/Documents/School/468ECE/files/retina.ppm",
+		"/home/rathe/Documents/School/468ECE/files/passwd.hufdec",
+		"/home/rathe/Documents/School/468ECE/files/passwd.huf",
+		"/home/rathe/Documents/School/468ECE/files/passwd",
+		"/home/rathe/Documents/School/468ECE/files/golfcore.ppm.hufdec",
+		"/home/rathe/Documents/School/468ECE/files/golfcore.ppm.huf",
+		"/home/rathe/Documents/School/468ECE/files/golfcore.ppm",
+		"/home/rathe/Documents/School/468ECE/files/echo.hufdec",
+		"/home/rathe/Documents/School/468ECE/files/echo.huf",
+		"/home/rathe/Documents/School/468ECE/files/echo",
+		"/home/rathe/Documents/School/468ECE/files/bridge.ppm",
+		"/home/rathe/Documents/School/468ECE/files/base.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/scripts/timelab",
+		"/home/rathe/Documents/School/468ECE/Lab3/scripts/difflab",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffenc.h",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffenc.c",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffdec.h",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffdec.c",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_bintree.h",
+		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_bintree.c",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/targets.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/sample_iTunes.mov",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/retina.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/passwd",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/golfcore.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/echo",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/bridge.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/files/base.ppm",
+		"/home/rathe/Documents/School/468ECE/Lab3/lab3.c",
+		"/home/rathe/Documents/School/468ECE/Lab3/error.log",
+		"/home/rathe/Documents/School/468ECE/Lab3/README",
+		"/home/rathe/Documents/School/468ECE/Lab3/Makefile",
+		"/home/rathe/Documents/School/468ECE/Lab2/passwd",
+		"/home/rathe/Documents/School/468ECE/Lab2/lorem.txt",
+		"/home/rathe/Documents/School/468ECE/Lab2/lab2.c",
+		"/home/rathe/Documents/School/468ECE/Lab2/error.log",
+		"/home/rathe/Documents/School/468ECE/Lab2/echo",
+		"/home/rathe/Documents/School/468ECE/Lab2/README",
+		"/home/rathe/Documents/School/468ECE/Lab2/Makefile",
+		"/home/rathe/Documents/School/468ECE/Lab1/x11.c",
+		"/home/rathe/Documents/School/468ECE/Lab1/wimg.c",
+		"/home/rathe/Documents/School/468ECE/Lab1/lab1.c",
+		"/home/rathe/Documents/School/468ECE/Lab1/README",
+		"/home/rathe/Documents/School/468ECE/Lab1/Makefile",
+		"/home/rathe/Documents/School/468ECE/468.sublime-project",
+		"/home/rathe/Documents/School/468ECE/.gitignore",
+		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/layout-local.txt",
+		"/home/rathe/Documents/School/468ECE/Lab2/testdec.txt",
+		"/home/rathe/Documents/School/468ECE/Lab2/test.c",
+		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/AddOns.txt",
+		"/home/rathe/Desktop/ex_lzw.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.cdec",
+		"/home/rathe/Documents/School/468ECE/Lab2/test.txt",
+		"/home/rathe/Documents/School/468ECE/Lab2/echo.x.lzw",
+		"/home/rathe/Documents/School/468ECE/Lab2/ecdec",
+		"/home/rathe/Documents/School/468ECE/Lab2/test.txt.lzw",
+		"/home/rathe/Documents/School/468ECE/Lab2/test.lzw",
+		"/home/rathe/Documents/School/468ECE/Lab2/test.text",
+		"/home/rathe/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/school/468ECE/Lab1/README",
+		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.cdec",
+		"/home/rathe/Documents/School/468ECE/zipme/Makefile",
+		"/home/rathe/Documents/School/468ECE/Lab3/testbed",
+		"/school/468ECE/Lab3/Makefile",
+		"/home/rathe/Documents/School/468ECE/Lab3/listtester.c",
+		"/school/468ECE/Lab2/passwd",
+		"/home/rathe/Documents/School/468ECE/Lab3/testbed.huf",
+		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec",
+		"/school/468ECE/images/golfcoredec.ppm",
+		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf",
+		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf.huf",
+		"/home/rathe/Documents/School/468ECE/images/base.ppm.huf",
+		"/home/rathe/Documents/School/468ECE/Lab3/testdecdec",
+		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex",
+		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec.huf",
+		"/home/rathe/Documents/School/.gitignore",
+		"/home/rathe/Documents/School/468ECE/headers/ex_huffenc.h.huf",
+		"/home/rathe/Documents/School/468ECE/Lab2/passwddec",
+		"/home/rathe/Documents/School/468ECE/Lab2/echodec",
+		"/home/rathe/Documents/School/468ECE/headers/listtester.c",
+		"/home/rathe/Documents/School/468ECE/headers/ex_twll.c",
+		"/home/rathe/Documents/School/468ECE/Lab2/echo.rle",
+		"/home/rathe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rathe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
+		"/home/rathe/Documents/School/468ECE/git.log",
+		"/home/rathe/Documents/School/468ECE/.tags",
+		"/home/rathe/Documents/School/468ECE/.tags_sorted_by_file",
+		"/home/rathe/Documents/School/468ECE/Lab2/lab2",
+		"/home/rathe/Documents/School/468ECE/images/golfcoredec.ppm",
+		"/home/rathe/Documents/School/468ECE/images/golfcore.ppm.rle",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/citationsfile.bib",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.tex",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.synctex.gz",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.log",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.fdb_latexmk",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.blg",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.bbl",
+		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.aux",
+		"/home/rathe/Documents/School/327ECE/.gitignore",
+		"/home/rathe/Documents/School/327ECE/327.sublime-project",
+		"/home/rathe/Documents/School/school.sublime-project",
+		"/home/rathe/Documents/School/214 ENGL/.~lock.study guide.docx#",
+		"/home/rathe/Documents/School/214 ENGL/LitCrits/LitCrit_Poe_JulianCoy.tex",
+		"/home/rathe/Documents/School/214 ENGL/LitCrits/citationsfile.bib"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"char",
+			"printf",
+			"char",
+			"echo",
+			"stringLen",
+			"calloc",
+			"unsigned short int",
+			".x",
+			"echo.x",
+			"xdec",
+			"test.bin",
+			"lab2.bin.lzw",
+			"lab2.bin -l",
+			"lab2.bin",
+			"echo.x",
+			"UINT",
+			"decode",
+			"echo",
+			"OPAT =",
+			"CODEPAT",
+			"STRCODE",
+			"STRCHAR",
+			"NCODEPAT",
+			"OCODEPAT",
+			"+ ",
+			", ",
+			"K",
+			", ",
+			",",
+			"STRING",
+			", ",
+			"sizeof(NCODE)",
+			", sizeof",
+			"UInt",
+			"unsigned short int",
+			");\n",
+			"unsigned int",
+			"ned int",
+			"long",
+			"ed long in",
+			"sizeof(char), 1",
+			"signed short i",
+			"short",
+			"prevLen",
+			"short int",
+			"strlen(STRING)",
+			"../headers/ex_lzw.c",
+			"w.h",
+			"test",
+			"txt",
+			"test.txt",
+			"';\n",
+			"],",
+			"CT_ADD_STRING",
+			"]++)",
+			"output",
+			"pnc",
+			" -",
+			"mask",
+			"pop",
+			"filesize",
+			"IMGDIR",
+			"./difflab3",
+			")dec | g",
+			"dec ||",
+			"-d ||",
+			"rundt:",
+			"runt:",
+			"rund:",
+			"rundt",
+			"runt:",
+			"rund:",
+			"run:",
+			"ECHOFILE",
+			"erun",
+			"echo",
+			"einfo",
+			"golffile",
+			"GOLFFILE",
+			"nawk",
+			"GOLFFILE",
+			"gru",
+			"GOLFFILE",
+			"runinfo build",
+			"build",
+			"all",
+			" \"",
+			"dec",
+			"35mDiff",
+			"projd",
+			"projc",
+			"PROJFILE",
+			"outFile",
+			"outpu",
+			"huffname",
+			"fileName",
+			"\n    ",
+			"../images/golfcore.ppm",
+			"testbed",
+			"nodeLeft",
+			"../headers/ex_bintree.c",
+			"prev",
+			"next",
+			"frequency",
+			"images",
+			"h",
+			"fwrite",
+			"    fwrite(&num[1],1,1,in);\n",
+			"out",
+			"\n    ",
+			"testbed",
+			"testdec",
+			"../images/base.ppm",
+			"./images/base.ppm",
+			"freq",
+			"testbed",
+			"../headers/ex_bintree.c",
+			"testbed",
+			"int",
+			"ptr",
+			"elem",
+			"../headers/ex_bintree.c",
+			"../images/golfcore.ppm",
+			"testbed",
+			"../headers/ex_bintree.c",
+			"lab3.bin",
+			"../images/golfcore.ppm",
+			"base"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			", "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "468.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-fetch":
+	{
+		"height": 112.0
+	},
+	"output.git-init":
+	{
+		"height": 112.0
+	},
+	"output.git-merge":
+	{
+		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 121.0
+	},
+	"output.git-push":
+	{
+		"height": 298.0
+	},
+	"output.git-remote":
+	{
+		"height": 112.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 194.0
+	},
+	"project": "468.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"468.sublime-project"
+			],
+			[
+				"lzw",
+				"headers/ex_lzw.c"
+			],
+			[
+				"lzwc",
+				"headers/ex_lzw.c"
+			],
+			[
+				"lzwh",
+				"headers/ex_lzw.h"
+			],
+			[
+				"echolz",
+				"Lab2/echo.x.lzw"
+			],
+			[
+				"exhlz",
+				"headers/ex_lzw.h.lzw"
+			],
+			[
+				"rle",
+				"headers/ex_rle.c"
+			],
+			[
+				"",
+				"headers/ex_lzw.h"
+			],
+			[
+				"dictc",
+				"headers/ex_dict.c"
+			],
+			[
+				"dich",
+				"headers/ex_dict.h"
+			],
+			[
+				"te",
+				"Lab2/test.txt"
+			],
+			[
+				"test",
+				"Lab2/test.txt"
+			],
+			[
+				"dict",
+				"headers/ex_dict.h"
+			],
+			[
+				"lab2",
+				"Lab2/lab2.c"
+			],
+			[
+				"lab",
+				"Lab3/lab3.c"
+			],
+			[
+				"make",
+				"Lab2/Makefile"
+			],
+			[
+				"dicht",
+				"headers/ex_dict.h"
+			],
+			[
+				"exlz",
+				"headers/ex_lzw.c"
+			],
+			[
+				"exdic",
+				"headers/ex_dict.c"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"stta",
+				"scripts/timelab"
+			],
+			[
+				"mak",
+				"Lab3/Makefile"
+			],
+			[
+				"re",
+				"Lab3/README"
+			],
+			[
+				"testhu",
+				"Lab3/testbed.huf"
+			],
+			[
+				"bin",
+				"headers/ex_bintree.c"
+			],
+			[
+				"tes",
+				"Lab3/testbed"
+			],
+			[
+				"binth",
+				"headers/ex_bintree.h"
+			],
+			[
+				"tehu",
+				"Lab3/testbed.huf"
+			],
+			[
+				"testb",
+				"Lab3/testbed"
+			],
+			[
+				"bindec",
+				"headers/ex_bintree.cdec"
+			],
+			[
+				"basehu",
+				"images/base.ppm.huf"
+			],
+			[
+				"huf",
+				"Lab3/testbed.huf"
+			],
+			[
+				"proj",
+				"468.sublime-project"
+			],
+			[
+				"headec",
+				"headers/ex_bintree.cdec"
+			],
+			[
+				"li",
+				"Lab3/listtester.c"
+			],
+			[
+				"enc",
+				"headers/ex_huffenc.c"
+			],
+			[
+				"bint",
+				"headers/ex_bintree.h"
+			],
+			[
+				"huffen",
+				"headers/ex_huffenc.c"
+			],
+			[
+				"dec",
+				"headers/ex_huffdec.c"
+			],
+			[
+				"tede",
+				"Lab3/testbeddec"
+			],
+			[
+				"huff",
+				"headers/ex_huffenc.h"
+			],
+			[
+				"list",
+				"Lab3/listtester.c"
+			],
+			[
+				"dec.h",
+				"headers/ex_huffdec.h"
+			],
+			[
+				"huff.h",
+				"headers/ex_huffdec.h"
+			],
+			[
+				"huffenc",
+				"headers/ex_huffenc.h"
+			],
+			[
+				"huffde",
+				"headers/ex_huffdec.c"
+			],
+			[
+				"lis",
+				"Lab3/listtester.c"
+			],
+			[
+				".huf",
+				"Lab3/testbed.huf"
+			],
+			[
+				"en",
+				"headers/ex_huffenc.c"
+			],
+			[
+				"ex",
+				"headers/ex_huffdec.c"
+			],
+			[
+				"ench",
+				"headers/ex_huffenc.h"
+			],
+			[
+				"binc",
+				"headers/ex_bintree.c"
+			],
+			[
+				"binh",
+				"headers/ex_bintree.h"
+			],
+			[
+				"bic",
+				"headers/ex_bintree.c"
+			],
+			[
+				"bintre",
+				"headers/ex_bintree.c"
+			],
+			[
+				"di",
+				"headers/ex_dict.c"
+			],
+			[
+				"bintree",
+				"headers/ex_bintree.h"
+			],
+			[
+				"bi",
+				"headers/ex_bintree.c"
+			],
+			[
+				"bnh",
+				"headers/ex_bintree.h"
+			],
+			[
+				"bnc",
+				"headers/ex_bintree.c"
+			],
+			[
+				"binte",
+				"headers/ex_bintree.c"
+			],
+			[
+				"lab2read",
+				"Lab2/README"
+			],
+			[
+				"hu",
+				"headers/ex_huffdec.c"
+			],
+			[
+				"exb",
+				"headers/ex_bintree.c"
+			],
+			[
+				"lab3",
+				"Lab3/lab3.c"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"lab2.",
+				"Lab2/lab2.c"
+			],
+			[
+				"po",
+				"468.sublime-project"
+			],
+			[
+				"lab2c",
+				"Lab2/lab2.c"
+			],
+			[
+				"mka",
+				"468ECE/Lab3/Makefile"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"tex",
+				"327ECE/Lab 1/Report/Lab1.tex"
+			],
+			[
+				"lab1tex",
+				"327ECE/Lab 1/Report/Lab1.tex"
+			],
+			[
+				"citation",
+				"214 ENGL/LitCrits/citationsfile.bib"
+			],
+			[
+				"ream",
+				"496ECE/README.md"
+			],
+			[
+				"read",
+				"468ECE/Lab1/README"
+			],
+			[
+				".tex",
+				"327ECE/Lab 1/Report/Lab1.tex"
+			],
+			[
+				"rlec",
+				"468ECE/headers/ex_rle.c"
+			],
+			[
+				"pasrle",
+				"468ECE/Lab2/passwd.rle"
+			],
+			[
+				"pas",
+				"468ECE/Lab2/passwd"
+			],
+			[
+				"pass",
+				"468ECE/Lab2/passwd"
+			],
+			[
+				"parle",
+				"468ECE/Lab2/passwd.rle"
+			],
+			[
+				"rle.c",
+				"468ECE/headers/ex_rle.c"
+			],
+			[
+				"rlc",
+				"468ECE/headers/ex_rle.c"
+			],
+			[
+				"rleh",
+				"468ECE/headers/ex_rle.h"
+			],
+			[
+				"lzc",
+				"468ECE/headers/ex_lzw.c"
+			],
+			[
+				"x11",
+				"468ECE/Lab1/x11.c"
+			],
+			[
+				"dih",
+				"468ECE/headers/ex_dict.h"
+			],
+			[
+				"rle.h",
+				"468ECE/headers/ex_rle.h"
+			],
+			[
+				"dict.c",
+				"468ECE/headers/ex_dict.c"
+			],
+			[
+				".h",
+				"468ECE/headers/ex_dict.h"
+			],
+			[
+				"dict.",
+				"468ECE/headers/ex_dict.c"
+			],
+			[
+				"468",
+				"468ECE/Lab1/x11.c"
+			],
+			[
+				"lab1.h",
+				"468ECE/Lab1/lab1.vhd"
+			],
+			[
+				"lab1",
+				"468ECE/Lab1/lab1.c"
+			],
+			[
+				"git.",
+				"468ECE/git.log"
+			],
+			[
+				"subpro",
+				"468ECE/468.sublime-project"
+			],
+			[
+				"sublimeproject",
+				"school.sublime-project"
+			],
+			[
+				".et",
+				"LaTeX Reports/Preliminary Report/ECE496-TeamSR03-Preliminary Report.tex"
+			],
+			[
+				"prelim.te",
+				"LaTeX Reports/Preliminary Report/ECE496-TeamSR03-Preliminary Report.tex"
+			],
+			[
+				"prelimtex",
+				"LaTeX Reports/Preliminary Report/ECE496-TeamSR03-Preliminary Report.tex"
+			],
+			[
+				"cit",
+				"LaTeX Reports/Preliminary Report/citationsfile.bib"
+			],
+			[
+				"plann",
+				"496.planner"
+			],
+			[
+				"to",
+				"LaTeX Reports/Preliminary Report/TODO.julian"
+			],
+			[
+				"pre.tex",
+				"LaTeX Reports/ECE496-TeamSR03-Preliminary Report.tex"
+			],
+			[
+				"x",
+				"x11.c"
+			],
+			[
+				"win",
+				"win.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"327",
+				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/School/327ECE/327.sublime-project"
+			],
+			[
+				"sc",
+				"~/Documents/School/school.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
