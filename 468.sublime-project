@@ -4,6 +4,9 @@
 		{
 			"follow_symlinks": true,
 			"path": ".",
+			"folder_exclude_patterns": [
+				"files"
+			],
 			"file_exclude_patterns": [
 				"*.sublime-workspace*",
 				"*.docx*",

@@ -347,7 +347,7 @@
 			"file": "468.sublime-project",
 			"settings":
 			{
-				"buffer_size": 206,
+				"buffer_size": 240,
 				"line_ending": "Unix"
 			}
 		}
@@ -878,6 +878,23 @@
 	},
 	"file_history":
 	[
+		"/Library/WebServer/Source/ece/468ECE/files/base.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/bridge.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/echo",
+		"/Library/WebServer/Source/ece/468ECE/files/echo.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/echo.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/retina.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/targets.ppm",
+		"/Library/WebServer/Source/ece/468ECE/headers/a.out",
+		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.c",
+		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.h",
+		"/Library/WebServer/Source/ece/468ECE/README.md",
 		"/home/rathe/Documents/School/468ECE/scripts/timelab",
 		"/home/rathe/Documents/School/468ECE/scripts/difflab",
 		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
@@ -988,24 +1005,7 @@
 		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
 		"/home/rathe/Documents/School/468ECE/git.log",
 		"/home/rathe/Documents/School/468ECE/.tags",
-		"/home/rathe/Documents/School/468ECE/.tags_sorted_by_file",
-		"/home/rathe/Documents/School/468ECE/Lab2/lab2",
-		"/home/rathe/Documents/School/468ECE/images/golfcoredec.ppm",
-		"/home/rathe/Documents/School/468ECE/images/golfcore.ppm.rle",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/citationsfile.bib",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.tex",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.synctex.gz",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.log",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.fdb_latexmk",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.blg",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.bbl",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.aux",
-		"/home/rathe/Documents/School/327ECE/.gitignore",
-		"/home/rathe/Documents/School/327ECE/327.sublime-project",
-		"/home/rathe/Documents/School/school.sublime-project",
-		"/home/rathe/Documents/School/214 ENGL/.~lock.study guide.docx#",
-		"/home/rathe/Documents/School/214 ENGL/LitCrits/LitCrit_Poe_JulianCoy.tex",
-		"/home/rathe/Documents/School/214 ENGL/LitCrits/citationsfile.bib"
+		"/home/rathe/Documents/School/468ECE/.tags_sorted_by_file"
 	],
 	"find":
 	{
@@ -1178,19 +1178,63 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 240,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								98,
+								98
 							]
 						],
 						"settings":
 						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
 							"history_list_is_closing": true,
 							"syntax": "Packages/JavaScript/JSON.tmLanguage",
 							"translate_tabs_to_spaces": false
@@ -1202,11 +1246,6 @@
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -1227,18 +1266,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1744,12 +1776,12 @@
 		"selected_items":
 		[
 			[
-				"327",
-				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
+				"",
+				"/Library/WebServer/Source/myclemson.sublime-project"
 			],
 			[
-				"",
-				"~/Documents/School/327ECE/327.sublime-project"
+				"327",
+				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
 			],
 			[
 				"sc",
