@@ -13,7 +13,11 @@
 				"lab2",
 				"*.tags*",
 				"git.log",
-				"*.bin"
+				"*.bin",
+				"*.aux",
+				"report1.log",
+				"*.fdb_*",
+				"*.sync*"
 			]
 		}
 	]

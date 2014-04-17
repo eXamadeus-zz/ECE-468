@@ -343,21 +343,21 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "468.sublime-project",
-			"settings":
-			{
-				"buffer_size": 240,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 285.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
 			[
 				"status",
 				"Git: Status"
@@ -365,10 +365,6 @@
 			[
 				"pull",
 				"Git: Pull"
-			],
-			[
-				"push",
-				"Git: Push"
 			],
 			[
 				"stat",
@@ -412,10 +408,6 @@
 			],
 			[
 				"gitsta",
-				"Git: Status"
-			],
-			[
-				"statu",
 				"Git: Status"
 			],
 			[
@@ -878,9 +870,25 @@
 	},
 	"file_history":
 	[
+		"/Library/WebServer/Source/ece/468ECE/468.sublime-project",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/citationsfile.bib",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/report1.tex",
+		"/Library/WebServer/Source/ece/327ECE/Lab 1/Report/Lab1.tex",
+		"/Library/WebServer/Source/ece/468ECE/Lab1/lab1.c",
+		"/Library/WebServer/Source/ece/468ECE/scripts/difflab",
+		"/Library/WebServer/Source/ece/468ECE/scripts/timelab",
+		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.c",
+		"/Library/WebServer/Source/ece/468ECE/Lab3/headers/ex_bintree.c",
+		"/Library/WebServer/Source/ece/468ECE/Lab3/README",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/report1",
+		"/Library/WebServer/Source/Report 1/report1.tex",
+		"/Library/WebServer/Source/ece/468ECE/Lab2/lorem.txt",
+		"/Library/WebServer/Source/ece/468ECE/Lab2/error.log",
+		"/Library/WebServer/Source/ece/468ECE/files/echo",
+		"/Library/WebServer/Source/ece/468ECE/Lab1/Makefile",
+		"/Library/WebServer/Source/ece/468ECE/README.md",
 		"/Library/WebServer/Source/ece/468ECE/files/base.ppm",
 		"/Library/WebServer/Source/ece/468ECE/files/bridge.ppm",
-		"/Library/WebServer/Source/ece/468ECE/files/echo",
 		"/Library/WebServer/Source/ece/468ECE/files/echo.huf",
 		"/Library/WebServer/Source/ece/468ECE/files/echo.hufdec",
 		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm",
@@ -892,9 +900,7 @@
 		"/Library/WebServer/Source/ece/468ECE/files/retina.ppm",
 		"/Library/WebServer/Source/ece/468ECE/files/targets.ppm",
 		"/Library/WebServer/Source/ece/468ECE/headers/a.out",
-		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.c",
 		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.h",
-		"/Library/WebServer/Source/ece/468ECE/README.md",
 		"/home/rathe/Documents/School/468ECE/scripts/timelab",
 		"/home/rathe/Documents/School/468ECE/scripts/difflab",
 		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
@@ -991,21 +997,7 @@
 		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf.huf",
 		"/home/rathe/Documents/School/468ECE/images/base.ppm.huf",
 		"/home/rathe/Documents/School/468ECE/Lab3/testdecdec",
-		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex",
-		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec.huf",
-		"/home/rathe/Documents/School/.gitignore",
-		"/home/rathe/Documents/School/468ECE/headers/ex_huffenc.h.huf",
-		"/home/rathe/Documents/School/468ECE/Lab2/passwddec",
-		"/home/rathe/Documents/School/468ECE/Lab2/echodec",
-		"/home/rathe/Documents/School/468ECE/headers/listtester.c",
-		"/home/rathe/Documents/School/468ECE/headers/ex_twll.c",
-		"/home/rathe/Documents/School/468ECE/Lab2/echo.rle",
-		"/home/rathe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/rathe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
-		"/home/rathe/Documents/School/468ECE/git.log",
-		"/home/rathe/Documents/School/468ECE/.tags",
-		"/home/rathe/Documents/School/468ECE/.tags_sorted_by_file"
+		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex"
 	],
 	"find":
 	{
@@ -1023,6 +1015,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"30px",
 			"char",
 			"printf",
 			"char",
@@ -1149,8 +1142,7 @@
 			"testbed",
 			"../headers/ex_bintree.c",
 			"lab3.bin",
-			"../images/golfcore.ppm",
-			"base"
+			"../images/golfcore.ppm"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1169,83 +1161,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "468.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 240,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								98,
-								98
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"history_list_is_closing": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1336,6 +1253,30 @@
 		"selected_items":
 		[
 			[
+				"citat",
+				"Report 1/citationsfile.bib"
+			],
+			[
+				"repor",
+				"Report 1/report1.tex"
+			],
+			[
+				"proje",
+				"468.sublime-project"
+			],
+			[
+				"report",
+				"Report 1/report1"
+			],
+			[
+				"proj",
+				"468.sublime-project"
+			],
+			[
+				"",
+				"files/echo"
+			],
+			[
 				"pro",
 				"468.sublime-project"
 			],
@@ -1362,10 +1303,6 @@
 			[
 				"rle",
 				"headers/ex_rle.c"
-			],
-			[
-				"",
-				"headers/ex_lzw.h"
 			],
 			[
 				"dictc",
@@ -1462,10 +1399,6 @@
 			[
 				"huf",
 				"Lab3/testbed.huf"
-			],
-			[
-				"proj",
-				"468.sublime-project"
 			],
 			[
 				"headec",
@@ -1777,7 +1710,7 @@
 		[
 			[
 				"",
-				"/Library/WebServer/Source/myclemson.sublime-project"
+				"/Library/WebServer/Source/ece/440/440.sublime-project"
 			],
 			[
 				"327",
