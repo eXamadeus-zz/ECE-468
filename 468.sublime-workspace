@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"sto",
+				"storedl"
+			],
+			[
+				"s",
+				"storedk"
+			],
+			[
+				"bloc",
+				"max_blocking"
+			],
+			[
 				"St",
 				"stringLen"
 			],
@@ -344,10 +356,26 @@
 	"buffers":
 	[
 		{
-			"file": "468.sublime-project",
+			"file": "Lab4/lab4.c",
 			"settings":
 			{
-				"buffer_size": 206,
+				"buffer_size": 4561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab4/report/Lab4.tex",
+			"settings":
+			{
+				"buffer_size": 18152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab4/Makefile",
+			"settings":
+			{
+				"buffer_size": 340,
 				"line_ending": "Unix"
 			}
 		}
@@ -355,9 +383,45 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 285.0,
+		"height": 96.0,
 		"selected_items":
 		[
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git stat	",
+				"Git: Status"
+			],
+			[
+				"git show",
+				"Git: Show"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
 			[
 				"status",
 				"Git: Status"
@@ -365,10 +429,6 @@
 			[
 				"pull",
 				"Git: Pull"
-			],
-			[
-				"push",
-				"Git: Push"
 			],
 			[
 				"stat",
@@ -381,10 +441,6 @@
 			[
 				"hex",
 				"Hex Viewer: Toggle Hex View"
-			],
-			[
-				"git pull",
-				"Git: Pull"
 			],
 			[
 				"gitad",
@@ -471,23 +527,11 @@
 				"Git: Status"
 			],
 			[
-				"git stat",
-				"Git: Status"
-			],
-			[
-				"git push",
-				"Git: Push"
-			],
-			[
 				"git mer",
 				"Git: Merge"
 			],
 			[
 				"git status",
-				"Git: Status"
-			],
-			[
-				"git sta",
 				"Git: Status"
 			],
 			[
@@ -691,10 +735,6 @@
 				"Git: Push"
 			],
 			[
-				"git statu",
-				"Git: Status"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			],
@@ -878,6 +918,25 @@
 	},
 	"file_history":
 	[
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab4/report/[no file]",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/468.sublime-project",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/files/lorem.txt",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab3/lab3.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab2/lab2.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab2/Makefile",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/Makefile",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/a.out",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab3/Makefile",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_lzw.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab4/lab4.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_bintree.h",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_bintree.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_dict.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/wimg.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/x11.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/lab1.c",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/README",
+		"/home/rathe/Documents/School/2014-1 Spring/468ECE/README.md",
 		"/home/rathe/Documents/School/468ECE/scripts/timelab",
 		"/home/rathe/Documents/School/468ECE/scripts/difflab",
 		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
@@ -986,26 +1045,7 @@
 		"/home/rathe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/rathe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
-		"/home/rathe/Documents/School/468ECE/git.log",
-		"/home/rathe/Documents/School/468ECE/.tags",
-		"/home/rathe/Documents/School/468ECE/.tags_sorted_by_file",
-		"/home/rathe/Documents/School/468ECE/Lab2/lab2",
-		"/home/rathe/Documents/School/468ECE/images/golfcoredec.ppm",
-		"/home/rathe/Documents/School/468ECE/images/golfcore.ppm.rle",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/citationsfile.bib",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.tex",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.synctex.gz",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.log",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.fdb_latexmk",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.blg",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.bbl",
-		"/home/rathe/Documents/School/327ECE/Lab 1/Report/Lab1.aux",
-		"/home/rathe/Documents/School/327ECE/.gitignore",
-		"/home/rathe/Documents/School/327ECE/327.sublime-project",
-		"/home/rathe/Documents/School/school.sublime-project",
-		"/home/rathe/Documents/School/214 ENGL/.~lock.study guide.docx#",
-		"/home/rathe/Documents/School/214 ENGL/LitCrits/LitCrit_Poe_JulianCoy.tex",
-		"/home/rathe/Documents/School/214 ENGL/LitCrits/citationsfile.bib"
+		"/home/rathe/Documents/School/468ECE/git.log"
 	],
 	"find":
 	{
@@ -1023,6 +1063,25 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"printf",
+			" \"\\",
+			"printf( ",
+			"printf(",
+			" \"\\",
+			"printf( ",
+			"printf(",
+			"blocking",
+			"iterations",
+			"1.3",
+			"sk[0",
+			"[0",
+			"k[0",
+			"tasks",
+			";\n",
+			"unsigned ",
+			"memcp",
+			"strncp",
+			"../images",
 			"char",
 			"printf",
 			"char",
@@ -1131,26 +1190,7 @@
 			"h",
 			"fwrite",
 			"    fwrite(&num[1],1,1,in);\n",
-			"out",
-			"\n    ",
-			"testbed",
-			"testdec",
-			"../images/base.ppm",
-			"./images/base.ppm",
-			"freq",
-			"testbed",
-			"../headers/ex_bintree.c",
-			"testbed",
-			"int",
-			"ptr",
-			"elem",
-			"../headers/ex_bintree.c",
-			"../images/golfcore.ppm",
-			"testbed",
-			"../headers/ex_bintree.c",
-			"lab3.bin",
-			"../images/golfcore.ppm",
-			"base"
+			"out"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1169,44 +1209,408 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "468.sublime-project",
+					"file": "Lab4/lab4.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 206,
+						"buffer_size": 4561,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4259,
+								4259
 							]
 						],
 						"settings":
 						{
-							"history_list_is_closing": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 55.0,
+						"translation.y": 2825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lab4/report/Lab4.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3367,
+								3367
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Lab4/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Makefile Improved/Makefile Improved.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -1227,18 +1631,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -1304,6 +1701,42 @@
 		"selected_items":
 		[
 			[
+				"mak",
+				"Lab4/Makefile"
+			],
+			[
+				"make",
+				"Lab2/Makefile"
+			],
+			[
+				"lab4",
+				"Lab4/lab4.c"
+			],
+			[
+				"lab4.",
+				"Lab4/lab4.c"
+			],
+			[
+				"lab2",
+				"Lab2/lab2.c"
+			],
+			[
+				"bintec",
+				"headers/ex_bintree.c"
+			],
+			[
+				"lab3",
+				"Lab3/lab3.c"
+			],
+			[
+				"binc",
+				"headers/ex_bintree.c"
+			],
+			[
+				"",
+				"Lab1/wimg.c"
+			],
+			[
 				"pro",
 				"468.sublime-project"
 			],
@@ -1332,10 +1765,6 @@
 				"headers/ex_rle.c"
 			],
 			[
-				"",
-				"headers/ex_lzw.h"
-			],
-			[
 				"dictc",
 				"headers/ex_dict.c"
 			],
@@ -1356,16 +1785,8 @@
 				"headers/ex_dict.h"
 			],
 			[
-				"lab2",
-				"Lab2/lab2.c"
-			],
-			[
 				"lab",
 				"Lab3/lab3.c"
-			],
-			[
-				"make",
-				"Lab2/Makefile"
 			],
 			[
 				"dicht",
@@ -1386,10 +1807,6 @@
 			[
 				"stta",
 				"scripts/timelab"
-			],
-			[
-				"mak",
-				"Lab3/Makefile"
 			],
 			[
 				"re",
@@ -1508,10 +1925,6 @@
 				"headers/ex_huffenc.h"
 			],
 			[
-				"binc",
-				"headers/ex_bintree.c"
-			],
-			[
 				"binh",
 				"headers/ex_bintree.h"
 			],
@@ -1558,10 +1971,6 @@
 			[
 				"exb",
 				"headers/ex_bintree.c"
-			],
-			[
-				"lab3",
-				"Lab3/lab3.c"
 			],
 			[
 				"giti",
@@ -1744,12 +2153,16 @@
 		"selected_items":
 		[
 			[
-				"327",
-				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
+				"",
+				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
 			],
 			[
-				"",
-				"~/Documents/School/327ECE/327.sublime-project"
+				"en	",
+				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
+			],
+			[
+				"327",
+				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
 			],
 			[
 				"sc",

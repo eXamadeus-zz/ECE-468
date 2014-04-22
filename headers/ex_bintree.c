@@ -87,11 +87,11 @@ EX_BINTREE_BUILD(EX_BINTREE *tree, EX_ORDLIST *list, EX_ELEM *elemtable[])
 }
 
 // EX_BINTREE_PRINT (EX_BINTREE *tree, EX_ELEM **elemtable) : return VOID
-// 		Prints the tree.
+// 		Prints the tree.  OK, it doesn't actually work.
 void
 EX_BINTREE_PRINT(EX_BINTREE *tree, EX_ELEM *elemtable[])
 {
-	printf("\nELEMLIST:\n");
+	printf("\n(This doesn't work...) ELEMLIST:\n");
 
 	int i;
 	for (i=0; i<256; i++)

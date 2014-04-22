@@ -20,7 +20,7 @@ void printPixels(unsigned char *data, int low, int high, bool RGB) {
 
 void printErr(char *str, int err) {
 	errno = err;
-	char *msg  = " Usage: wimg {options}\n\n Options:\n    Specify file\n\t-f {FILENAME}\n ";
+	char *msg  = (char *)" Usage: wimg {options}\n\n Options:\n    Specify file\n\t-f {FILENAME}\n ";
 	char *pstr = (char *)malloc(strlen(str) + strlen(msg));
 	strcat(pstr, msg);
 	strcat(pstr, str);
@@ -36,7 +36,7 @@ int main (int argc, char *argv[]) {
 	header[0] 		= '\0';
 
 	if (argc <= 2) {
-		printErr("No file", ENOENT);
+		printErr((char *)"No file", ENOENT);
 	}
 
 	for (i = 0; i < argc-1; i++) {
