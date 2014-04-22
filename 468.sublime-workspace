@@ -355,6 +355,7 @@
 	},
 	"buffers":
 	[
+<<<<<<< HEAD
 		{
 			"file": "Lab4/lab4.c",
 			"settings":
@@ -379,15 +380,33 @@
 				"line_ending": "Unix"
 			}
 		}
+=======
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 	],
 	"build_system": "",
 	"command_palette":
 	{
+<<<<<<< HEAD
 		"height": 96.0,
 		"selected_items":
 		[
 			[
 				"git statu",
+=======
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"status",
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 				"Git: Status"
 			],
 			[
@@ -399,6 +418,7 @@
 				"Git: Pull"
 			],
 			[
+<<<<<<< HEAD
 				"git push",
 				"Git: Push"
 			],
@@ -431,6 +451,8 @@
 				"Git: Pull"
 			],
 			[
+=======
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 				"stat",
 				"Git: Status"
 			],
@@ -468,10 +490,6 @@
 			],
 			[
 				"gitsta",
-				"Git: Status"
-			],
-			[
-				"statu",
 				"Git: Status"
 			],
 			[
@@ -918,6 +936,7 @@
 	},
 	"file_history":
 	[
+<<<<<<< HEAD
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab4/report/[no file]",
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/468.sublime-project",
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/files/lorem.txt",
@@ -937,6 +956,39 @@
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/lab1.c",
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/README",
 		"/home/rathe/Documents/School/2014-1 Spring/468ECE/README.md",
+=======
+		"/Library/WebServer/Source/ece/468ECE/468.sublime-project",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/citationsfile.bib",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/report1.tex",
+		"/Library/WebServer/Source/ece/327ECE/Lab 1/Report/Lab1.tex",
+		"/Library/WebServer/Source/ece/468ECE/Lab1/lab1.c",
+		"/Library/WebServer/Source/ece/468ECE/scripts/difflab",
+		"/Library/WebServer/Source/ece/468ECE/scripts/timelab",
+		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.c",
+		"/Library/WebServer/Source/ece/468ECE/Lab3/headers/ex_bintree.c",
+		"/Library/WebServer/Source/ece/468ECE/Lab3/README",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/report1",
+		"/Library/WebServer/Source/Report 1/report1.tex",
+		"/Library/WebServer/Source/ece/468ECE/Lab2/lorem.txt",
+		"/Library/WebServer/Source/ece/468ECE/Lab2/error.log",
+		"/Library/WebServer/Source/ece/468ECE/files/echo",
+		"/Library/WebServer/Source/ece/468ECE/Lab1/Makefile",
+		"/Library/WebServer/Source/ece/468ECE/README.md",
+		"/Library/WebServer/Source/ece/468ECE/files/base.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/bridge.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/echo.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/echo.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/golfcore.ppm.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd.huf",
+		"/Library/WebServer/Source/ece/468ECE/files/passwd.hufdec",
+		"/Library/WebServer/Source/ece/468ECE/files/retina.ppm",
+		"/Library/WebServer/Source/ece/468ECE/files/targets.ppm",
+		"/Library/WebServer/Source/ece/468ECE/headers/a.out",
+		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.h",
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 		"/home/rathe/Documents/School/468ECE/scripts/timelab",
 		"/home/rathe/Documents/School/468ECE/scripts/difflab",
 		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
@@ -1033,6 +1085,7 @@
 		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf.huf",
 		"/home/rathe/Documents/School/468ECE/images/base.ppm.huf",
 		"/home/rathe/Documents/School/468ECE/Lab3/testdecdec",
+<<<<<<< HEAD
 		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex",
 		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec.huf",
 		"/home/rathe/Documents/School/.gitignore",
@@ -1046,6 +1099,9 @@
 		"/home/rathe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
 		"/home/rathe/Documents/School/468ECE/git.log"
+=======
+		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex"
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 	],
 	"find":
 	{
@@ -1063,6 +1119,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+<<<<<<< HEAD
 			"printf",
 			" \"\\",
 			"printf( ",
@@ -1082,6 +1139,9 @@
 			"memcp",
 			"strncp",
 			"../images",
+=======
+			"30px",
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 			"char",
 			"printf",
 			"char",
@@ -1190,7 +1250,29 @@
 			"h",
 			"fwrite",
 			"    fwrite(&num[1],1,1,in);\n",
+<<<<<<< HEAD
 			"out"
+=======
+			"out",
+			"\n    ",
+			"testbed",
+			"testdec",
+			"../images/base.ppm",
+			"./images/base.ppm",
+			"freq",
+			"testbed",
+			"../headers/ex_bintree.c",
+			"testbed",
+			"int",
+			"ptr",
+			"elem",
+			"../headers/ex_bintree.c",
+			"../images/golfcore.ppm",
+			"testbed",
+			"../headers/ex_bintree.c",
+			"lab3.bin",
+			"../images/golfcore.ppm"
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1209,6 +1291,7 @@
 	"groups":
 	[
 		{
+<<<<<<< HEAD
 			"selected": 1,
 			"sheets":
 			[
@@ -1611,6 +1694,10 @@
 					"stack_index": 2,
 					"type": "text"
 				}
+=======
+			"sheets":
+			[
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 			]
 		}
 	],
@@ -1701,6 +1788,7 @@
 		"selected_items":
 		[
 			[
+<<<<<<< HEAD
 				"mak",
 				"Lab4/Makefile"
 			],
@@ -1735,6 +1823,30 @@
 			[
 				"",
 				"Lab1/wimg.c"
+=======
+				"citat",
+				"Report 1/citationsfile.bib"
+			],
+			[
+				"repor",
+				"Report 1/report1.tex"
+			],
+			[
+				"proje",
+				"468.sublime-project"
+			],
+			[
+				"report",
+				"Report 1/report1"
+			],
+			[
+				"proj",
+				"468.sublime-project"
+			],
+			[
+				"",
+				"files/echo"
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 			],
 			[
 				"pro",
@@ -1847,10 +1959,6 @@
 			[
 				"huf",
 				"Lab3/testbed.huf"
-			],
-			[
-				"proj",
-				"468.sublime-project"
 			],
 			[
 				"headec",
@@ -2154,6 +2262,7 @@
 		[
 			[
 				"",
+<<<<<<< HEAD
 				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
 			],
 			[
@@ -2161,6 +2270,11 @@
 				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
 			],
 			[
+=======
+				"/Library/WebServer/Source/ece/440/440.sublime-project"
+			],
+			[
+>>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 				"327",
 				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
 			],

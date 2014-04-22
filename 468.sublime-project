@@ -4,13 +4,20 @@
 		{
 			"follow_symlinks": true,
 			"path": ".",
+			"folder_exclude_patterns": [
+				"files"
+			],
 			"file_exclude_patterns": [
 				"*.sublime-workspace*",
 				"*.docx*",
 				"lab2",
 				"*.tags*",
 				"git.log",
-				"*.bin"
+				"*.bin",
+				"*.aux",
+				"report1.log",
+				"*.fdb_*",
+				"*.sync*"
 			]
 		}
 	]

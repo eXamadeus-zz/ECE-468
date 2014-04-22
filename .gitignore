@@ -1,0 +1,7 @@
+*.synctex.gz
+*.DS_Store
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+Report 1/report1.log
