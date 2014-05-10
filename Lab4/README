@@ -1,0 +1,9 @@
+Usage:
+	make test
+		Runs test
+	
+	make verbose
+		Runs with iterative information
+	
+	make clean
+		Cleans up the directory

@@ -4,18 +4,6 @@
 		"selected_items":
 		[
 			[
-				"sto",
-				"storedl"
-			],
-			[
-				"s",
-				"storedk"
-			],
-			[
-				"bloc",
-				"max_blocking"
-			],
-			[
 				"St",
 				"stringLen"
 			],
@@ -355,23 +343,6 @@
 	},
 	"buffers":
 	[
-<<<<<<< HEAD
-		{
-			"file": "Lab4/lab4.c",
-			"settings":
-			{
-				"buffer_size": 4561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Lab4/report/Lab4.tex",
-			"settings":
-			{
-				"buffer_size": 18152,
-				"line_ending": "Unix"
-			}
-		},
 		{
 			"file": "Lab4/Makefile",
 			"settings":
@@ -379,69 +350,22 @@
 				"buffer_size": 340,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
 		}
-=======
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 	],
 	"build_system": "",
 	"command_palette":
 	{
-<<<<<<< HEAD
-		"height": 96.0,
-		"selected_items":
-		[
-			[
-				"git statu",
-=======
 		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"push",
-				"Git: Push"
-			],
-			[
-				"statu",
-				"Git: Status"
-			],
-			[
-				"status",
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
-				"Git: Status"
-			],
-			[
-				"push",
-				"Git: Push"
-			],
-			[
-				"git pull",
-				"Git: Pull"
-			],
-			[
-<<<<<<< HEAD
-				"git push",
-				"Git: Push"
-			],
-			[
-				"git remote",
-				"Git: Remote"
-			],
-			[
-				"git sta",
-				"Git: Status"
-			],
-			[
-				"git stat	",
-				"Git: Status"
-			],
-			[
-				"git show",
-				"Git: Show"
-			],
-			[
-				"git stat",
-				"Git: Status"
-			],
 			[
 				"status",
 				"Git: Status"
@@ -451,8 +375,26 @@
 				"Git: Pull"
 			],
 			[
-=======
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
+				"statu",
+				"Git: Status"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
 				"stat",
 				"Git: Status"
 			],
@@ -545,11 +487,23 @@
 				"Git: Status"
 			],
 			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
 				"git mer",
 				"Git: Merge"
 			],
 			[
 				"git status",
+				"Git: Status"
+			],
+			[
+				"git sta",
 				"Git: Status"
 			],
 			[
@@ -936,30 +890,35 @@
 	},
 	"file_history":
 	[
-<<<<<<< HEAD
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab4/report/[no file]",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/468.sublime-project",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/files/lorem.txt",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab3/lab3.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab2/lab2.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab2/Makefile",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/Makefile",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/a.out",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab3/Makefile",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_lzw.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab4/lab4.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_bintree.h",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_bintree.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/headers/ex_dict.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/wimg.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/x11.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/lab1.c",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/Lab1/README",
-		"/home/rathe/Documents/School/2014-1 Spring/468ECE/README.md",
-=======
-		"/Library/WebServer/Source/ece/468ECE/468.sublime-project",
-		"/Library/WebServer/Source/ece/468ECE/Report 1/citationsfile.bib",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab3/README",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/README",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/Makefile",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab3/Makefile",
+		"/Library/WebServer/Source/personal/ece/468ECE/468.sublime-project",
+		"/Library/WebServer/Source/personal/ece/468ECE/scripts/timelab",
+		"/Library/WebServer/Source/personal/ece/468ECE/images/targets.ppm",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/lab2.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/error.log",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/README",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab3/lab3.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/headers/ex_lzw.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/headers/ex_bintree.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/images/base.ppm",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab1/lab1.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/Makefile",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/report/Lab4.tex",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/report/Lab4.log",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/lab4.c",
+		"/Library/WebServer/Source/personal/ece/468ECE/Report 1/report1.tex",
+		"/Library/WebServer/Source/personal/ece/468ECE/Lab1/wimg.c",
+		"/Library/WebServer/Source/ece/468ECE/.gitignore",
 		"/Library/WebServer/Source/ece/468ECE/Report 1/report1.tex",
+		"/Library/WebServer/Source/ece/468ECE/Lab2/lorem.txt",
+		"/Library/WebServer/Source/ece/468ECE/468.sublime-project",
+		"/Library/WebServer/Source/ece/468ECE/images/base.ppm",
+		"/Library/WebServer/Source/ece/468ECE/headers/a.out",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/report1.bbl",
+		"/Library/WebServer/Source/ece/468ECE/Report 1/citationsfile.bib",
 		"/Library/WebServer/Source/ece/327ECE/Lab 1/Report/Lab1.tex",
 		"/Library/WebServer/Source/ece/468ECE/Lab1/lab1.c",
 		"/Library/WebServer/Source/ece/468ECE/scripts/difflab",
@@ -969,7 +928,6 @@
 		"/Library/WebServer/Source/ece/468ECE/Lab3/README",
 		"/Library/WebServer/Source/ece/468ECE/Report 1/report1",
 		"/Library/WebServer/Source/Report 1/report1.tex",
-		"/Library/WebServer/Source/ece/468ECE/Lab2/lorem.txt",
 		"/Library/WebServer/Source/ece/468ECE/Lab2/error.log",
 		"/Library/WebServer/Source/ece/468ECE/files/echo",
 		"/Library/WebServer/Source/ece/468ECE/Lab1/Makefile",
@@ -986,9 +944,7 @@
 		"/Library/WebServer/Source/ece/468ECE/files/passwd.hufdec",
 		"/Library/WebServer/Source/ece/468ECE/files/retina.ppm",
 		"/Library/WebServer/Source/ece/468ECE/files/targets.ppm",
-		"/Library/WebServer/Source/ece/468ECE/headers/a.out",
 		"/Library/WebServer/Source/ece/468ECE/headers/ex_bintree.h",
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 		"/home/rathe/Documents/School/468ECE/scripts/timelab",
 		"/home/rathe/Documents/School/468ECE/scripts/difflab",
 		"/home/rathe/Documents/School/468ECE/images/targets.ppm",
@@ -1061,47 +1017,7 @@
 		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/layout-local.txt",
 		"/home/rathe/Documents/School/468ECE/Lab2/testdec.txt",
 		"/home/rathe/Documents/School/468ECE/Lab2/test.c",
-		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/AddOns.txt",
-		"/home/rathe/Desktop/ex_lzw.c",
-		"/home/rathe/Documents/School/468ECE/headers/ex_lzw.cdec",
-		"/home/rathe/Documents/School/468ECE/Lab2/test.txt",
-		"/home/rathe/Documents/School/468ECE/Lab2/echo.x.lzw",
-		"/home/rathe/Documents/School/468ECE/Lab2/ecdec",
-		"/home/rathe/Documents/School/468ECE/Lab2/test.txt.lzw",
-		"/home/rathe/Documents/School/468ECE/Lab2/test.lzw",
-		"/home/rathe/Documents/School/468ECE/Lab2/test.text",
-		"/home/rathe/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/school/468ECE/Lab1/README",
-		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.cdec",
-		"/home/rathe/Documents/School/468ECE/zipme/Makefile",
-		"/home/rathe/Documents/School/468ECE/Lab3/testbed",
-		"/school/468ECE/Lab3/Makefile",
-		"/home/rathe/Documents/School/468ECE/Lab3/listtester.c",
-		"/school/468ECE/Lab2/passwd",
-		"/home/rathe/Documents/School/468ECE/Lab3/testbed.huf",
-		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec",
-		"/school/468ECE/images/golfcoredec.ppm",
-		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf",
-		"/home/rathe/Documents/School/468ECE/headers/ex_bintree.c.huf.huf",
-		"/home/rathe/Documents/School/468ECE/images/base.ppm.huf",
-		"/home/rathe/Documents/School/468ECE/Lab3/testdecdec",
-<<<<<<< HEAD
-		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex",
-		"/home/rathe/Documents/School/468ECE/Lab3/testbeddec.huf",
-		"/home/rathe/Documents/School/.gitignore",
-		"/home/rathe/Documents/School/468ECE/headers/ex_huffenc.h.huf",
-		"/home/rathe/Documents/School/468ECE/Lab2/passwddec",
-		"/home/rathe/Documents/School/468ECE/Lab2/echodec",
-		"/home/rathe/Documents/School/468ECE/headers/listtester.c",
-		"/home/rathe/Documents/School/468ECE/headers/ex_twll.c",
-		"/home/rathe/Documents/School/468ECE/Lab2/echo.rle",
-		"/home/rathe/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/rathe/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/home/rathe/Documents/School/468ECE/Lab2/passwd.rle",
-		"/home/rathe/Documents/School/468ECE/git.log"
-=======
-		"/home/rathe/Documents/School/449ECE/assignment2/newscratch/sedhex"
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
+		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/AddOns.txt"
 	],
 	"find":
 	{
@@ -1119,29 +1035,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
-<<<<<<< HEAD
-			"printf",
-			" \"\\",
-			"printf( ",
-			"printf(",
-			" \"\\",
-			"printf( ",
-			"printf(",
-			"blocking",
-			"iterations",
-			"1.3",
-			"sk[0",
-			"[0",
-			"k[0",
-			"tasks",
-			";\n",
-			"unsigned ",
-			"memcp",
-			"strncp",
-			"../images",
-=======
+			"echo",
 			"30px",
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 			"char",
 			"printf",
 			"char",
@@ -1250,9 +1145,6 @@
 			"h",
 			"fwrite",
 			"    fwrite(&num[1],1,1,in);\n",
-<<<<<<< HEAD
-			"out"
-=======
 			"out",
 			"\n    ",
 			"testbed",
@@ -1270,9 +1162,7 @@
 			"../images/golfcore.ppm",
 			"testbed",
 			"../headers/ex_bintree.c",
-			"lab3.bin",
-			"../images/golfcore.ppm"
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
+			"lab3.bin"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1291,279 +1181,11 @@
 	"groups":
 	[
 		{
-<<<<<<< HEAD
 			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Lab4/lab4.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4259,
-								4259
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 55.0,
-						"translation.y": 2825.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Lab4/report/Lab4.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 18152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3367,
-								3367
-							]
-						],
-						"settings":
-						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2476.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "Lab4/Makefile",
 					"semi_transient": false,
 					"settings":
@@ -1575,129 +1197,137 @@
 						"selection":
 						[
 							[
-								227,
-								227
+								150,
+								150
 							]
 						],
 						"settings":
 						{
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
+							"BracketHighlighterBusy": false,
+							"bh_regions":
 							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
 							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/Makefile Improved/Makefile Improved.tmLanguage"
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
-=======
-			"sheets":
-			[
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 			]
 		}
 	],
@@ -1788,42 +1418,38 @@
 		"selected_items":
 		[
 			[
-<<<<<<< HEAD
-				"mak",
+				"readm",
+				"README.md"
+			],
+			[
+				"4make",
 				"Lab4/Makefile"
 			],
 			[
-				"make",
-				"Lab2/Makefile"
+				"4read",
+				"Lab4/README"
 			],
 			[
-				"lab4",
-				"Lab4/lab4.c"
+				"pro",
+				"468.sublime-project"
 			],
 			[
-				"lab4.",
-				"Lab4/lab4.c"
+				"sublim",
+				"468.sublime-project"
 			],
 			[
-				"lab2",
-				"Lab2/lab2.c"
+				".te",
+				"Report 1/report1.tex"
 			],
 			[
-				"bintec",
-				"headers/ex_bintree.c"
+				".pro",
+				"468.sublime-project"
 			],
 			[
-				"lab3",
-				"Lab3/lab3.c"
+				".git",
+				".gitignore"
 			],
 			[
-				"binc",
-				"headers/ex_bintree.c"
-			],
-			[
-				"",
-				"Lab1/wimg.c"
-=======
 				"citat",
 				"Report 1/citationsfile.bib"
 			],
@@ -1846,11 +1472,6 @@
 			[
 				"",
 				"files/echo"
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
-			],
-			[
-				"pro",
-				"468.sublime-project"
 			],
 			[
 				"lzw",
@@ -1897,8 +1518,16 @@
 				"headers/ex_dict.h"
 			],
 			[
+				"lab2",
+				"Lab2/lab2.c"
+			],
+			[
 				"lab",
 				"Lab3/lab3.c"
+			],
+			[
+				"make",
+				"Lab2/Makefile"
 			],
 			[
 				"dicht",
@@ -1919,6 +1548,10 @@
 			[
 				"stta",
 				"scripts/timelab"
+			],
+			[
+				"mak",
+				"Lab3/Makefile"
 			],
 			[
 				"re",
@@ -2033,6 +1666,10 @@
 				"headers/ex_huffenc.h"
 			],
 			[
+				"binc",
+				"headers/ex_bintree.c"
+			],
+			[
 				"binh",
 				"headers/ex_bintree.h"
 			],
@@ -2081,6 +1718,10 @@
 				"headers/ex_bintree.c"
 			],
 			[
+				"lab3",
+				"Lab3/lab3.c"
+			],
+			[
 				"giti",
 				".gitignore"
 			],
@@ -2102,10 +1743,6 @@
 			],
 			[
 				".giti",
-				".gitignore"
-			],
-			[
-				".git",
 				".gitignore"
 			],
 			[
@@ -2262,19 +1899,9 @@
 		[
 			[
 				"",
-<<<<<<< HEAD
-				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
+				"/Library/WebServer/Source/myclemson.sublime-project"
 			],
 			[
-				"en	",
-				"~/Documents/School/2014-1 Spring/214ENGL/214.sublime-project"
-			],
-			[
-=======
-				"/Library/WebServer/Source/ece/440/440.sublime-project"
-			],
-			[
->>>>>>> 1c3631c1688707cb88bb2e7aa5cf8a08e0a205b0
 				"327",
 				"~/Documents/School/2014-1 Spring/327ECE/327.sublime-project"
 			],
