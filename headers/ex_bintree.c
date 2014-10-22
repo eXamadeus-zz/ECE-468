@@ -327,21 +327,7 @@ EX_NOSORT_PUSH (EX_NOSORT *list, bool bit)
 {
 	assert(list);
 
-	EX_NOSORT_ELEM *newElem/*, *tail*/;
-
-	// tail = list->head;
-
-	// while(tail && tail->parent)
-	// 	tail = tail->parent;
-
-	// newElem         = (EX_NOSORT_ELEM *) malloc (sizeof(EX_NOSORT_ELEM));
-	// newElem->bit    = bit;
-	// newElem->parent = NULL;
-	
-	// if (tail)
-	// 	tail->parent = newElem;
-	// else
-	// 	list->head = newElem;
+	EX_NOSORT_ELEM *newElem;
 
 	newElem         = (EX_NOSORT_ELEM *) malloc (sizeof(EX_NOSORT_ELEM));
 	newElem->bit    = bit;
