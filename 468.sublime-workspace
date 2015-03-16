@@ -343,36 +343,24 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Lab4/Makefile",
-			"settings":
-			{
-				"buffer_size": 340,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 258,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 127.0,
 		"selected_items":
 		[
 			[
-				"status",
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"stat",
 				"Git: Status"
 			],
 			[
-				"pull",
-				"Git: Pull"
+				"status",
+				"Git: Status"
 			],
 			[
 				"statu",
@@ -393,10 +381,6 @@
 			[
 				"push",
 				"Git: Push"
-			],
-			[
-				"stat",
-				"Git: Status"
 			],
 			[
 				"he",
@@ -859,7 +843,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 593.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -888,8 +872,21 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/juliancoy/Dev/school/ECE-468"
+	],
 	"file_history":
 	[
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffdec.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffenc.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab4/Makefile",
+		"/Users/juliancoy/Dev/school/ECE-468/README.md",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab3/README",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/README",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/Makefile",
@@ -1008,16 +1005,7 @@
 		"/home/rathe/Documents/School/468ECE/Lab2/README",
 		"/home/rathe/Documents/School/468ECE/Lab2/Makefile",
 		"/home/rathe/Documents/School/468ECE/Lab1/x11.c",
-		"/home/rathe/Documents/School/468ECE/Lab1/wimg.c",
-		"/home/rathe/Documents/School/468ECE/Lab1/lab1.c",
-		"/home/rathe/Documents/School/468ECE/Lab1/README",
-		"/home/rathe/Documents/School/468ECE/Lab1/Makefile",
-		"/home/rathe/Documents/School/468ECE/468.sublime-project",
-		"/home/rathe/Documents/School/468ECE/.gitignore",
-		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/layout-local.txt",
-		"/home/rathe/Documents/School/468ECE/Lab2/testdec.txt",
-		"/home/rathe/Documents/School/468ECE/Lab2/test.c",
-		"/home/rathe/Desktop/World of Warcraft/WTF/Account/SKOOSHFLYT/Arthas/Goldhold/AddOns.txt"
+		"/home/rathe/Documents/School/468ECE/Lab1/wimg.c"
 	],
 	"find":
 	{
@@ -1181,153 +1169,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Lab4/Makefile",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 340,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								150,
-								150
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"syntax": "Packages/Makefile/Makefile.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								66,
-								66
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1417,6 +1260,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"ex",
+				"headers/ex_bintree.c"
+			],
 			[
 				"readm",
 				"README.md"
@@ -1658,10 +1505,6 @@
 				"headers/ex_huffenc.c"
 			],
 			[
-				"ex",
-				"headers/ex_huffdec.c"
-			],
-			[
 				"ench",
 				"headers/ex_huffenc.h"
 			],
@@ -1899,7 +1742,7 @@
 		[
 			[
 				"",
-				"/Library/WebServer/Source/myclemson.sublime-project"
+				"~/VM_Shared/powershell.sublime-project"
 			],
 			[
 				"327",
@@ -1920,6 +1763,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
