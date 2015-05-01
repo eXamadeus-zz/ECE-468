@@ -343,20 +343,40 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "headers/ex_lzw.c",
+			"settings":
+			{
+				"buffer_size": 4319,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lab1/wimg.c",
+			"settings":
+			{
+				"buffer_size": 1849,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"pull",
-				"Git: Pull"
-			],
-			[
 				"stat",
 				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pull",
+				"Git: Pull"
 			],
 			[
 				"status",
@@ -445,10 +465,6 @@
 			[
 				"pu",
 				"Git: Push"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"install ",
@@ -843,7 +859,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 458.0
 	},
 	"console":
 	{
@@ -878,15 +894,44 @@
 	],
 	"file_history":
 	[
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.c",
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.h",
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.c",
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.h",
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffdec.c",
-		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab1/x11.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab1/wimg.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab1/README",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab1/Makefile",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab1/lab1.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab3/lab3.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab3/Makefile",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab3/error.log",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab2/README",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab2/Makefile",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab2/lab2.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab2/error.log",
+		"/Users/juliancoy/Dev/school/ECE-468/images/targets.ppm",
+		"/Users/juliancoy/Dev/school/ECE-468/images/retina.ppm",
+		"/Users/juliancoy/Dev/school/ECE-468/images/golfcore.ppm",
+		"/Users/juliancoy/Dev/school/ECE-468/images/bridge.ppm",
+		"/Users/juliancoy/Dev/school/ECE-468/images/base.ppm",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_rle.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_rle.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.h.lzw",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.c.lzw",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffenc.h",
 		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffenc.c",
-		"/Users/juliancoy/Dev/school/ECE-468/Lab4/Makefile",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffdec.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_huffdec.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_dict.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.h",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_bintree.c",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/a.out",
 		"/Users/juliancoy/Dev/school/ECE-468/README.md",
+		"/Users/juliancoy/Dev/school/ECE-468/LICENSE",
+		"/Users/juliancoy/Dev/school/ECE-468/468.sublime-project",
+		"/Users/juliancoy/Dev/school/ECE-468/.gitignore",
+		"/Users/juliancoy/Dev/vbms/buildvbms",
+		"/Users/juliancoy/Dev/school/ECE-468/headers/ex_lzw.c",
+		"/Users/juliancoy/Dev/school/ECE-468/Lab4/Makefile",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab3/README",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab4/README",
 		"/Library/WebServer/Source/personal/ece/468ECE/Lab2/Makefile",
@@ -976,36 +1021,7 @@
 		"/home/rathe/Documents/School/468ECE/files/echo.huf",
 		"/home/rathe/Documents/School/468ECE/files/echo",
 		"/home/rathe/Documents/School/468ECE/files/bridge.ppm",
-		"/home/rathe/Documents/School/468ECE/files/base.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/scripts/timelab",
-		"/home/rathe/Documents/School/468ECE/Lab3/scripts/difflab",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffenc.h",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffenc.c",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffdec.h",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_huffdec.c",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_bintree.h",
-		"/home/rathe/Documents/School/468ECE/Lab3/headers/ex_bintree.c",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/targets.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/sample_iTunes.mov",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/retina.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/passwd",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/golfcore.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/echo",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/bridge.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/files/base.ppm",
-		"/home/rathe/Documents/School/468ECE/Lab3/lab3.c",
-		"/home/rathe/Documents/School/468ECE/Lab3/error.log",
-		"/home/rathe/Documents/School/468ECE/Lab3/README",
-		"/home/rathe/Documents/School/468ECE/Lab3/Makefile",
-		"/home/rathe/Documents/School/468ECE/Lab2/passwd",
-		"/home/rathe/Documents/School/468ECE/Lab2/lorem.txt",
-		"/home/rathe/Documents/School/468ECE/Lab2/lab2.c",
-		"/home/rathe/Documents/School/468ECE/Lab2/error.log",
-		"/home/rathe/Documents/School/468ECE/Lab2/echo",
-		"/home/rathe/Documents/School/468ECE/Lab2/README",
-		"/home/rathe/Documents/School/468ECE/Lab2/Makefile",
-		"/home/rathe/Documents/School/468ECE/Lab1/x11.c",
-		"/home/rathe/Documents/School/468ECE/Lab1/wimg.c"
+		"/home/rathe/Documents/School/468ECE/files/base.ppm"
 	],
 	"find":
 	{
@@ -1169,8 +1185,67 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "headers/ex_lzw.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lab1/wimg.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1261,6 +1336,14 @@
 		"selected_items":
 		[
 			[
+				"lab1",
+				"Lab1/wimg.c"
+			],
+			[
+				"",
+				"Lab1/x11.c"
+			],
+			[
 				"ex",
 				"headers/ex_bintree.c"
 			],
@@ -1315,10 +1398,6 @@
 			[
 				"proj",
 				"468.sublime-project"
-			],
-			[
-				"",
-				"files/echo"
 			],
 			[
 				"lzw",
@@ -1681,10 +1760,6 @@
 				"468ECE/Lab1/lab1.vhd"
 			],
 			[
-				"lab1",
-				"468ECE/Lab1/lab1.c"
-			],
-			[
 				"git.",
 				"468ECE/git.log"
 			],
@@ -1742,7 +1817,7 @@
 		[
 			[
 				"",
-				"~/VM_Shared/powershell.sublime-project"
+				"~/Dev/vbms/vbms.sublime-project"
 			],
 			[
 				"327",
