@@ -352,6 +352,25 @@
 			}
 		},
 		{
+			"contents": "#include <stdio.h> // only for print\n#include <stdlib.h>\n#include <stdbool.h>\n#include <assert.h>\n#include <math.h>\n\n#ifndef EX_BINTREE_H\n#define EX_BINTREE_H\n\n////////////////////////////////////////////////////////////////////\n////////////////////////////////////////////////////////////////////\n//////////////////                                //////////////////\n////////////////// EXTERNAL FUNCTION DESCRIPTIONS //////////////////\n//////////////////                                //////////////////\n////////////////////////////////////////////////////////////////////\n////////////////////////////////////////////////////////////////////\n//\n//\n//\n///////////////////////////\n// BINARY TREE FUNCTIONS //\n///////////////////////////\n//\n// EX_BINTREE_INIT () : return EX_BINTREE *\n// 		Creates a binary tree for with symbols and weight and\n//		returns a pointer to the tree.\n//\n// EX_BINTREE_BUILD (EX_BINTREE *tree, EX_ORDLIST *list, EX_ORDLIST *synlist[]) : return VOID\n// 		Builds the binary tree from a one-way linked list of\n//		type EX_ORDLIST and \n//\n// EX_BINTREE_PRINT (EX_BINTREE *tree, EX_ELEM **elemtable) : return VOID\n// 		Prints the tree.\n//\n// EX_BINTREE_DELETE (EX_BINTREE *tree) : return VOID\n// 		Deletes the tree.\n//\n//\n//\n////////////////////////////\n// ORDERED LIST FUNCTIONS //\n////////////////////////////\n//\n// EX_ORDLIST_INIT () : return EX_ORDLIST\n// 		Creates an ordered one way list (ascending) that acts as a\n//		sorted stack.\n//\n// EX_ORDLIST_POP () : return EX_ELEM\n// 		Pops the EX_ELEM off the EX_ORDLIST where the\n//		EX_ELEM->pair->frequency is lowest.\n//\n// EX_ORDLIST_PUSH (EX_ORDLIST *list, EX_ELEM *pair) : return VOID\n// 		Places pair in list.\n//\n// EX_ORDLIST_PRINT (EX_ORDLIST *list) : return VOID\n// 		Prints list.\n//\n// EX_ORDLIST_DELETE (EX_ORDLIST *list) : return VOID\n// 		Deletes list.\n//\n//\n//\n///////////////////////////\n// NOSORT LIST FUNCTIONS //\n///////////////////////////\n//\n// EX_NOSORT_INIT () : return EX_NOSORT\n// 		Creates a one way list that acts as a stack.\n//\n// EX_NOSORT_POP () : return EX_ELEM\n// 		Pops the bit off the stack.\n//\n// EX_NOSORT_PUSH (EX_NOSORT *list, bool bit) : return VOID\n// 		Places bit on stack.\n//\n// EX_NOSORT_PRINT (EX_NOSORT *list) : return VOID\n// 		Prints list.\n//\n// EX_NOSORT_DELETE (EX_NOSORT *list) : return VOID\n// 		Deletes list.\n//\n//\n//\n///////////////////////////////////////////////////////\n///////////////////////////////////////////////////////\n//////////////////                   //////////////////\n////////////////// STRUCTURE DEFINES //////////////////\n//////////////////                   //////////////////\n///////////////////////////////////////////////////////\n///////////////////////////////////////////////////////\n\n/////////////\n// EX_ELEM //\n/////////////\n\ntypedef struct _ex_elem\n{\n	struct _ex_elem					*left,*right,*parent,*next;\n	unsigned char					symbol;\n	unsigned int					frequency;\n	bool							isNode;\n} EX_ELEM;\n\n////////////////\n// EX_BINTREE //\n////////////////\n\ntypedef struct _ex_bintree\n{\n	EX_ELEM							*head;\n} EX_BINTREE;\n\n////////////////\n// EX_ORDLIST //\n////////////////\n\ntypedef struct _ex_ordlist\n{\n	EX_ELEM							*head;\n} EX_ORDLIST;\n\n///////////////\n// EX_NOSORT //\n///////////////\n\ntypedef struct _ex_ordlist_nosort_elem\n{\n	struct _ex_ordlist_nosort_elem	*parent;\n	bool							bit;			\n} EX_NOSORT_ELEM;\n\ntypedef struct _ex_ordlist_nosort\n{\n	EX_NOSORT_ELEM			*head;\n} EX_NOSORT;\n\n/////////////////////////////////////////////////////////\n/////////////////////////////////////////////////////////\n//////////////////                     //////////////////\n////////////////// FUNCTION PROTOTYPES //////////////////\n//////////////////                     //////////////////\n/////////////////////////////////////////////////////////\n/////////////////////////////////////////////////////////\n\nEX_BINTREE *		EX_BINTREE_INIT();\nvoid				EX_BINTREE_BUILD(EX_BINTREE *, EX_ORDLIST *, EX_ELEM **);\nvoid				EX_BINTREE_PRINT(EX_BINTREE *, EX_ELEM **);\nvoid				EX_BINTREE_DELETE(EX_BINTREE *);\n\nEX_ORDLIST *		EX_ORDLIST_INIT();\nEX_ELEM *			EX_ORDLIST_POP(EX_ORDLIST *);\nvoid				EX_ORDLIST_PUSH(EX_ORDLIST *, EX_ELEM *);\nvoid				EX_ORDLIST_PRINT(EX_ORDLIST *);\nvoid				EX_ORDLIST_DELETE(EX_ORDLIST *);\n\nEX_NOSORT *			EX_NOSORT_INIT();\nbool				EX_NOSORT_POP(EX_NOSORT *);\nvoid				EX_NOSORT_PUSH(EX_NOSORT *, bool);\nvoid				EX_NOSORT_PRINT(EX_NOSORT *);\nvoid				EX_NOSORT_DELETE(EX_NOSORT *);\n\n#endif\n",
+			"file": "headers/ex_bintree.h",
+			"file_size": 4423,
+			"file_write_time": 130651998620000000,
+			"settings":
+			{
+				"buffer_size": 4423,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "headers/ex_bintree.c",
+			"settings":
+			{
+				"buffer_size": 7852,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "Lab1/wimg.c",
 			"settings":
 			{
@@ -361,9 +380,14 @@
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1201,8 +1225,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								446,
+								446
 							]
 						],
 						"settings":
@@ -1219,6 +1243,63 @@
 				},
 				{
 					"buffer": 1,
+					"file": "headers/ex_bintree.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1977.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "headers/ex_bintree.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7794,
+								7794
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "Lab1/wimg.c",
 					"semi_transient": false,
 					"settings":
@@ -1243,7 +1324,7 @@
 						"translation.y": 40.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1324,6 +1405,7 @@
 	{
 		"height": 194.0
 	},
+	"pinned_build_system": "",
 	"project": "468.sublime-project",
 	"replace":
 	{
@@ -1333,8 +1415,13 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"ex",
+				"headers/ex_bintree.c"
+			],
 			[
 				"lab1",
 				"Lab1/wimg.c"
@@ -1342,10 +1429,6 @@
 			[
 				"",
 				"Lab1/x11.c"
-			],
-			[
-				"ex",
-				"headers/ex_bintree.c"
 			],
 			[
 				"readm",
@@ -1813,6 +1896,7 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1833,6 +1917,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
